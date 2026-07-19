@@ -1,7 +1,11 @@
 # Malwhere
-This Streamlit dashboard inspects provided network traffic logs and classifies them as either 'normal' or 'attack' based on a trained Decision Tree model.
+This Streamlit dashboard inspects provided network traffic logs and classifies them as either 'normal' or 'attack' based on a trained Decision Tree model. 
 
 ## How to Use This Tool
+
+### Step 0:
+If you wish to use this app online instead of on your own machine, it is hosted on `https://malwhereict2514c.streamlit.app/`!
+
 ### Step 1:
 Clone this repository to your own directory of choice. 
 ### Step 2:
