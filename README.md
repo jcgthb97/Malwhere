@@ -7,7 +7,7 @@ Clone this repository to your own directory of choice.
 ### Step 2:
 In the terminal of your IDE of choice, cd to the Malwhere directory. Example: `cd C:/Users/User/Documents/Malwhere`
 ### Step 3:
-In the same terminal, run the command `streamlit run app.py`. The app should launch in your browser at `localhost:8501`
+In the same terminal, run the command `streamlit run Malwhere.py`. The app should launch in your browser at `localhost:8501`
 ### Step 4:
 In the dashboard window, click on the Upload button
 <img width="2554" height="1268" alt="image" src="https://github.com/user-attachments/assets/fa651e66-dde0-4e54-b181-08e2d7cb684d" />
