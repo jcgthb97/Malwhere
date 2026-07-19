@@ -25,5 +25,6 @@ Allow the dashboard to process your data file. You can use the Decision Tree Con
 
 #### Visualization Split Depth 5:
 <img width="2555" height="1268" alt="image" src="https://github.com/user-attachments/assets/6cb6e1a7-5be0-448b-bbf4-ac6f623d02c6" />
+
 ### Conclusion:
 We hope you enjoy using our tool to classify and visualize your data!
